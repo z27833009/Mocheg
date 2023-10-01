@@ -50,3 +50,6 @@ wandb/
 controllable/generation/output/ 
 verification/output
 .vscode 
+
+/data/
+/checkpoint/
